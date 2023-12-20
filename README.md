@@ -155,7 +155,7 @@ testBox.add("jQuery").remove("jQuery");
 
 ###Images
 
-Image:
+
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
